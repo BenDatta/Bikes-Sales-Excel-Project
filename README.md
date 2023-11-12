@@ -7,8 +7,15 @@ INTRODUCTION
 I performed bike sales analytics, and designed a Bike Sales Performance Dashboard using Excel.
 The bike company want to know what influenced Individual customers that got a bike, what's attributes customers that got bikes and the ones that didnt possess.
 The dashboard consists of various charts and slicers that provide insights into bike sales performance based on parameters such as customer demographics, customer distance, occupation, income, and age bracket. In this report, I will present the trends and insights obtained from the dashboard, draw conclusions and provide recommendations.
-Analysis Pipeline
 
+BUSINESS OBJECTIVE
+
+1. Total number of purchase by Region
+2. Total number of purchase by Gender
+3. General Trends on the Data set
+4. Recommendation
+
+   
 DATA CLEANING
 
 Removed 26 duplicate values, to avoid data redundancy. Left with 1000 unique values.
